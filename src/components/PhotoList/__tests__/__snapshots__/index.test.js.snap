@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PhotoList is rendering matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="flex-row"
+  >
+    <img
+      alt="Grocery aisle"
+      class="img-thumbnail mx-1"
+      data-testid="img0"
+      src="0.jpg"
+    />
+    <img
+      alt="Grocery booth"
+      class="img-thumbnail mx-1"
+      data-testid="img1"
+      src="1.jpg"
+    />
+    <img
+      alt="Building exterior"
+      class="img-thumbnail mx-1"
+      data-testid="img2"
+      src="2.jpg"
+    />
+    <img
+      alt="Restaurant table"
+      class="img-thumbnail mx-1"
+      data-testid="img3"
+      src="3.jpg"
+    />
+    <img
+      alt="Cafe interior"
+      class="img-thumbnail mx-1"
+      data-testid="img4"
+      src="4.jpg"
+    />
+  </div>
+</DocumentFragment>
+`;
